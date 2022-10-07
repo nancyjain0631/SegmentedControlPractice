@@ -8,3 +8,5 @@ Attaching images:
 <img src="/resultpics/iPhoneSE (3rd gen).png" width="200">
 <img src="/resultpics/iPhone 11.png" width="200">
 <img src="/resultpics/iPhone 14.png" width="200">
+
+**Made with ❤️ by Nancy Jain**
